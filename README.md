@@ -11,7 +11,7 @@
 
 1. [Фаза 1. Выбор концепции проекта](https://github.com/ssofaaa07/kes_project_managment/blob/main/фаза%201.md)
 2. [Фаза 2 (Мета): Распределение работы](https://github.com/ssofaaa07/kes_project_managment/blob/main/фаза%202.md)
-3. Фаза 3: Оценка проекта
+3. [Фаза 3: Оценка проекта](https://github.com/ssofaaa07/kes_project_managment/blob/main/фаза%203.md)
 4. Фаза 4 (Мета). Прогнозирование
 5. Фаза 5. Планирование
 
